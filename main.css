@@ -1,0 +1,33 @@
+body{
+	background-color: white;
+	}
+	header{
+	margin-top: 40px; 
+	font-family: 1px,san-serif;
+	}
+	header a{
+	color:black;
+	text-align: justify-all;
+	}
+	header a:hover{
+	text-decoration: none;
+	}
+	form{
+	margin-top: 20px;
+	}
+	form,#result{
+	padding: 0,20px;
+	}
+	.item{
+	margin-bottom:25px;
+	}
+	.W100{
+	width: 100%;
+	}
+	.btn-primary{
+	background:#952b2b; 
+	border-color: #957575;
+	}
+	.btn-primary:hover, .btn-primary:active, .btn-primary:focus { background: #782b2b; 
+	 border-color: #952b2b;
+	  }
