@@ -37,6 +37,6 @@ function init(){
 	gapi.client.load("youtube","v3",function(){
 	//	alert("Api is ready");
 		var x = $("#search").val();
-		alert(x);
+		//alert(x);
 	});
 }
